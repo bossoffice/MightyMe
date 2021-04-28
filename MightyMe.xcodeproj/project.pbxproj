@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E3321DD26386B39005F1B6E /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3321DC26386B39005F1B6E /* MapView.swift */; };
 		8E5614C0258E600000F5D3B8 /* MightyMeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5614BF258E600000F5D3B8 /* MightyMeApp.swift */; };
 		8E5614C2258E600000F5D3B8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5614C1258E600000F5D3B8 /* ContentView.swift */; };
 		8E5614C4258E600100F5D3B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E5614C3258E600100F5D3B8 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E3321DC26386B39005F1B6E /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		8E5614BC258E600000F5D3B8 /* MightyMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MightyMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E5614BF258E600000F5D3B8 /* MightyMeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MightyMeApp.swift; sourceTree = "<group>"; };
 		8E5614C1258E600000F5D3B8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				8E5614C3258E600100F5D3B8 /* Assets.xcassets */,
 				8E5614C8258E600100F5D3B8 /* Info.plist */,
 				8E5614C5258E600100F5D3B8 /* Preview Content */,
+				8E3321DC26386B39005F1B6E /* MapView.swift */,
 			);
 			path = MightyMe;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E5614C2258E600000F5D3B8 /* ContentView.swift in Sources */,
+				8E3321DD26386B39005F1B6E /* MapView.swift in Sources */,
 				8E5614C0258E600000F5D3B8 /* MightyMeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -419,7 +423,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"MightyMe/Preview Content\"";
-				DEVELOPMENT_TEAM = T26LTA8978;
+				DEVELOPMENT_TEAM = 9GDSANY4HQ;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = MightyMe/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -441,7 +445,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"MightyMe/Preview Content\"";
-				DEVELOPMENT_TEAM = T26LTA8978;
+				DEVELOPMENT_TEAM = 9GDSANY4HQ;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = MightyMe/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
